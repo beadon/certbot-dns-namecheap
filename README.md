@@ -16,7 +16,7 @@ Namecheap has certain requirements for activation to prevent system abuse. In or
 
 ## Credentials
 
-Use of this plugin requires a configuration file containing Namecheap API credentials, obtained from your Namecheap account's [API Managenment page](https://ap.www.namecheap.com/settings/tools/apiaccess/).
+Use of this plugin requires a configuration file containing Namecheap API credentials, obtained from your Namecheap account's [API Management page](https://ap.www.namecheap.com/settings/tools/apiaccess/).
 
 ```ini
 # Namecheap API credentials used by Certbot
